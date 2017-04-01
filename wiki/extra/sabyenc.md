@@ -123,13 +123,13 @@ SABnzbd 2.0.0 and higher will check if SAByenc is installed.
 If SAByenc is installed, and the version is correct, SABnzbd will print in the log:
 
 ```
-SABYenc module (v2.7.0)... found!
+SABYenc module (v2.8.0)... found!
 ```
 
 If you have no `sabyenc` module installed, or an incorrect version (too low or too high (!)), you will get a warning:
 
 ```
-SABYenc module... NOT found! Expecting v2.7.0
+SABYenc module... NOT found! Expecting v2.8.0
 ```
 
 on start-up to make users aware of the change. You can still download, but not with the improved speed.
